@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+
 # Reading List
 
 - The Hobbit — J.R.R. Tolkien
 - The Pragmatic Programmer — Andrew Hunt and David Thomas
-=======
-# reading-list-practice
->>>>>>> origin/main
+- Rhapsody - Elizabeth Hayden
+
+
